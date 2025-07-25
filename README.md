@@ -1,6 +1,13 @@
 # RAG_with_Langchain
 Retrieval Augmented Generation (RAG) with LangChain" lab experience hosted via IBM SkillsBuild and IBM Cloud
 
+<p align="center">
+  <a href="https://colab.research.google.com/github/ibm-granite-community/granite-snack-cookbook/blob/main/recipes/RAG/RAG_with_Langchain.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+  </a>
+</p>
+
+
 Internship Via Edunet Foundations
 
 <img width="1334" height="585" alt="image" src="https://github.com/user-attachments/assets/da82ea09-88bc-4087-b130-47ce08aa13af" />
