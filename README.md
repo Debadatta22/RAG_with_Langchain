@@ -1,6 +1,20 @@
 # RAG_with_Langchain
 Retrieval Augmented Generation (RAG) with LangChain" lab experience hosted via IBM SkillsBuild and IBM Cloud
 
+Internship Via Edunet Foundations
+
+<img width="1334" height="585" alt="image" src="https://github.com/user-attachments/assets/da82ea09-88bc-4087-b130-47ce08aa13af" />
+
+<img width="1363" height="597" alt="image" src="https://github.com/user-attachments/assets/9f6d3979-9a6e-467c-a624-86fc46866d87" />
+
+<img width="1239" height="595" alt="image" src="https://github.com/user-attachments/assets/27102471-cfc2-4078-a0ce-2c2c7344bf35" />
+
+
+<img width="1365" height="756" alt="image" src="https://github.com/user-attachments/assets/843daf5b-5f67-42ad-b992-63e56e36b97c" />
+
+
+
+
 
 ## 🔍 Introduction
 In the modern era of generative AI, language models such as GPT, BERT, and LLaMA have revolutionized natural language processing by generating human-like responses. However, these models are limited by the data they were trained on, leading to knowledge gaps, outdated information, or hallucinated outputs.
@@ -117,6 +131,11 @@ Edge cases and limitations are discussed.
 💡 LLM-Powered Augmented Applications
 
 🐍 Python Programming with Google Colab
+
+## Certification
+
+<img width="851" height="536" alt="image" src="https://github.com/user-attachments/assets/fd362cb9-536f-4027-a15f-e6e937413a11" />
+
 
 ## ✅ Conclusion
 This lab was not just about theory — it was about building a cutting-edge AI solution that mirrors what’s happening in enterprise AI today. With the world moving rapidly toward factual, explainable AI, RAG is becoming a must-know pattern for AI engineers, data scientists, and solution architects.
