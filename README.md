@@ -241,3 +241,11 @@ Thanks to IBM SkillsBuild and Edunet Foundation, learners can gain free access t
     <img src="https://img.shields.io/badge/Replicate-Granite_3.3_8b_API-000000?style=for-the-badge&logo=replicate" alt="Replicate Granite API" />
   </a>
 </p>
+
+<img width="1328" height="354" alt="image" src="https://github.com/user-attachments/assets/2a8c6b1b-d3a7-47ef-840b-999ef7bd59fd" />
+
+
+<img width="1284" height="579" alt="image" src="https://github.com/user-attachments/assets/159f6e34-3cef-4663-b1fb-f9de7edbad56" />
+
+<img width="1340" height="592" alt="image" src="https://github.com/user-attachments/assets/00227f46-6019-4256-87a3-ac8e9a7022b6" />
+
