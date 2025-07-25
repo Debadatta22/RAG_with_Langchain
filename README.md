@@ -226,3 +226,18 @@ Thanks to IBM SkillsBuild and Edunet Foundation, this lab gave access to IBM’s
 This lab was not just about theory — it was about building a cutting-edge AI solution that mirrors what’s happening in enterprise AI today. With the world moving rapidly toward factual, explainable AI, RAG is becoming a must-know pattern for AI engineers, data scientists, and solution architects.
 
 Thanks to IBM SkillsBuild and Edunet Foundation, learners can gain free access to industry-aligned labs and get certified with credible IBM badges and credentials — an excellent way to build portfolios and stand out in the job market.
+
+
+## 🔗 References
+
+<p align="left">
+  <a href="https://github.com/ibm-granite-community" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-IBM_Granite_Community-181717?style=for-the-badge&logo=github" alt="IBM Granite GitHub" />
+  </a>
+  <a href="https://huggingface.co/settings/tokens" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-Token_Settings-FCC624?style=for-the-badge&logo=huggingface" alt="Hugging Face Tokens" />
+  </a>
+  <a href="https://replicate.com/ibm-granite/granite-speech-3.3-8b/api" target="_blank">
+    <img src="https://img.shields.io/badge/Replicate-Granite_3.3_8b_API-000000?style=for-the-badge&logo=replicate" alt="Replicate Granite API" />
+  </a>
+</p>
